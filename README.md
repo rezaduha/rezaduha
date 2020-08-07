@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Reza Duha, a Developer 🚀 from Indonesia.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rezaduha)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/reza-duha-57a98b192)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rezafauzizisiwaduha@gmail.com)
+[![Github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rezaduha)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/reza-duha-57a98b192)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rezafauzizisiwaduha@gmail.com)
 
 ---
 **Talking about Personal Stuffs:**
